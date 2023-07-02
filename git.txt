@@ -1,1 +1,27 @@
-Geronimo Delli Carpini
+ Geronimo Delli Carpini
+
+ Que es git?
+
+ Git es un sistema de control de versiones distribuido, 
+lo que significa que un clon local del proyecto 
+es un repositorio de control de versiones completo.
+
+ ¿Para que sirve, y como crees que va a ayudarte a usarlo en programación?
+
+ Sirve para trabajar sin conexión o de forma remota.
+Nos puede ayudar para trabajar en conjunto con otros programadores y mejorar el codigo de forma remota.
+
+ ¿Qué es java?
+
+ Java es un lenguaje de programacion orientado a objetos.
+
+ ¿Qué se puede hacer con Java?
+
+ Se puede utilizar en seguridad, animación, acceso a bases de datos, aplicaciones cliente-servidor, 
+interfaces gráficas, páginas Web interactivas y desarrollo de aplicaciones móviles, entre otras.
+
+
+
+
+
+
